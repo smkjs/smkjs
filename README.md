@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 My name is Illia 
+19 years old
+Location: Dortmund,Germany.
+Stack: Javascript,React.
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smkjs&theme=tokyonight" alt="mystreak"/>
 
 
